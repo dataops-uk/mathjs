@@ -1,6 +1,10 @@
-# JS Dev Kit for FileMaker Developers
+# Math.JS integrated with FileMaker Developers
 
-*Develop, Render, and Deploy JavaScript for a FileMaker App*
+*Using the KS Dev Kit for FileMaker by Integrating Magic*
+
+![math.js](https://raw.github.com/josdejong/mathjs/master/misc/img/mathjs.png) ![math.js](https://www.claris.com/site/images/logo_claris_opengraph.jpg) 
+
+[https://mathjs.org](https://mathjs.org)
 
 # This Kit
 ## What it does
