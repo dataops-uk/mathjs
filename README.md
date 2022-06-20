@@ -2,7 +2,7 @@
 
 *Using the KS Dev Kit for FileMaker by Integrating Magic*
 
-![math.js](https://raw.github.com/josdejong/mathjs/master/misc/img/mathjs.png) ![math.js](https://www.claris.com/site/images/logo_claris_opengraph.jpg) 
+![math.js](https://raw.github.com/josdejong/mathjs/master/misc/img/mathjs.png) ![Claris FileMaker](https://github.com/dataops-uk/mathjs/blob/main/Claris-FMP-black.png?raw=true) 
 
 [https://mathjs.org](https://mathjs.org)
 
