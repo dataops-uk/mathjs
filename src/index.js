@@ -1,7 +1,9 @@
-// Import the required functions from teh Math.JS library
+// https://mathjs.org/docs/getting_started.html
+// Import the required functions from the Math.JS library
 const math = require('mathjs')
 
 // Call the match funtion passing in the expression from FileMaker
+
 window.callMath = function (json) {
   const obj = JSON.parse(json);
   const expression = obj.expression;
@@ -13,6 +15,7 @@ window.callMath = function (json) {
   // console.log (result)
 
   // Pass back the result to FileMaker
-  FileMaker.PerformScript ( "set Result" , JSON.stringify ( result ) ) 
+  FileMaker.PerformScript ( "set Result" , JSON.stringify ( result ) ) ;
+  document.write ( 'Result:<br>' + result)
 
 }
